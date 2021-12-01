@@ -36,7 +36,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@nexssp/cli": "2.5.78"
+    "@nexssp/cli": "*"
   },
   "author": {
     "name": "Marcin Polak",
